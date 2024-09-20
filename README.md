@@ -7,3 +7,5 @@ Repository to contain the material from the "Cryptography for the rest of us" se
 
 ## Next
 - [ ] Lagrange Interpolation
+- [ ] Sum Check Protocol
+
