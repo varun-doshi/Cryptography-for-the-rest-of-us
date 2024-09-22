@@ -10,4 +10,5 @@ Repository to contain the material from the "Cryptography for the rest of us" se
 - [x] Lagrange Interpolation
 - [ ] Sum Check Protocol
 - [ ] Error Codes
+- [ ] KZG
 
