@@ -4,6 +4,7 @@ Repository to contain the material from the "Cryptography for the rest of us" se
 ## Contents
 - [Fintie Fields for the rest of us](https://hackmd.io/@varundoshi/fields-for-the-rest-of-us)
 - [Lagrange Interpolation for the rest of us](https://hackmd.io/@varundoshi/lagrange-interpolation)
+- [Diffie Hellman Key Exchange](https://hackmd.io/@varundoshi/S18VOCyy1g)
 
 
 ## Next(not in any particular order)
@@ -11,5 +12,5 @@ Repository to contain the material from the "Cryptography for the rest of us" se
 - [ ] Sum Check Protocol
 - [ ] Error Codes
 - [ ] KZG
-- [ ] Diffie Hellman Key Exchange
+- [x] Diffie Hellman Key Exchange
 
