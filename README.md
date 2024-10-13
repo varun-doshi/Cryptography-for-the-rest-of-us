@@ -16,4 +16,4 @@ Repository to contain the material from the "Cryptography for the rest of us" se
 
 
 ## Ethereum related topics(Not necessarily Cryptography related)
-- [ ] Sync and Data Storage Nodes
+- [ ] Sync and Data Storage Modes
