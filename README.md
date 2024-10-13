@@ -14,3 +14,6 @@ Repository to contain the material from the "Cryptography for the rest of us" se
 - [ ] KZG
 - [x] Diffie Hellman Key Exchange
 
+
+## Ethereum related topics(Not necessarily Cryptography related)
+- [ ] Sync and Data Storage Nodes
